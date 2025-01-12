@@ -79,3 +79,27 @@ Clé AES générée: 16 bytes
 Données sensibles chiffrées: b'...'
 Données déchiffrées: Données sensibles à protéger
 
+
+Contribuer
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet ou ajouter des fonctionnalités, veuillez suivre ces étapes :
+
+Forkez ce projet.
+Créez une branche pour votre fonctionnalité (git checkout -b feature/ma-fonctionnalité).
+Faites vos modifications et validez-les (git commit -am 'Ajout de fonctionnalité').
+Poussez votre branche (git push origin feature/ma-fonctionnalité).
+Créez une Pull Request.
+License
+Ce projet est sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+Merci d'avoir consulté Crypto-AI-Solution. Nous espérons que vous apprécierez le projet et que vous y trouverez une manière novatrice d'intégrer l'intelligence artificielle et la cryptographie pour renforcer la sécurité des systèmes.
+
+rust
+Copy code
+
+Ce fichier `README.md` est conçu pour donner aux utilisateurs un aperçu complet de votre projet, comment l'exécuter, et comment y contribuer. Il décrit de manière détaillée les fonctionnalités du projet, la structure des fichiers, ainsi que les étapes nécessaires pour commencer à utiliser la solution.
+
+
+
+
+
+
